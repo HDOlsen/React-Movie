@@ -1,0 +1,42 @@
+
+#container{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+#id{
+
+
+}
+
+#film{
+
+    list-style: none;
+}
+
+#title{
+
+    
+}
+
+#movieDetailsContainer{
+    color: white;
+    padding: 1em;
+    height: 100px;
+    width: 100px
+} 
+
+#movieFacts {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+} 
+
+#moviePoster {
+    display: flex;
+    margin-left: 3px;
+    padding-left: 2em;
+    padding-top: 1.5em;
+    width: 50px;
+} 
